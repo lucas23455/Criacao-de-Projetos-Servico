@@ -1,1 +1,1 @@
-https://criacao-de-projetos-servico-p8fp.vercel.app/projects
+https://criacao-de-projetos-servico-p8fp.vercel.app/
