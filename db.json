@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "bisturir",
+      "budget": "800",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 800,
+      "services": [
+        {
+          "name": "meu no serviço php",
+          "cost": "800",
+          "description": "faça um dowloud",
+          "id": "26817af4-5d43-46f1-a735-2dbe1e856444"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "bunbasalrou",
+      "budget": "3455",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "projet0 190",
+      "budget": "4555",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
